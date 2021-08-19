@@ -34,10 +34,6 @@ body {
 	
 }
 
-.icon :not(.foregrounded) {
-	box-shadow: none !important;
-}
-
 /* MARK: - BACKGROUNDING */
 body.backgrounded > .content > .flex > :not(.foregrounded) {
 	opacity: 50%;
@@ -149,10 +145,9 @@ p {
 	overflow: hidden;
 	opacity: 100%;
 	
-	margin-bottom: 32px;
 	padding-bottom: 1px;
 	
-	transition: 0.5s ease-in-out, opacity 0.25s 0.1s ease-in-out;
+	transition: 0.5s ease-in-out, margin-bottom 0.5s linear, opacity 0.25s 0.3s ease-in-out;
 }
 
 .outer-folder.hidden {
@@ -160,10 +155,9 @@ p {
 	max-height: 0;
 	opacity: 0;
 	
-	margin: 0;
 	padding: 0;
 	
-	transition: 0.5s ease-in-out, opacity 0.25s 0.3s ease-in-out;
+	transition: 0.5s ease-in-out, margin-bottom 0.5s linear, opacity 0.25s 0.3s ease-in-out;
 }
 
 .folder {
