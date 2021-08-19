@@ -147,7 +147,7 @@ p {
 	
 	padding-bottom: 1px;
 	
-	transition: 0.5s ease-in-out, opacity 0.25s 0.3s ease-in-out;
+	transition: 0.5s ease-in-out, opacity 0.25s 0s ease-in-out;
 }
 
 .outer-folder.hidden {
