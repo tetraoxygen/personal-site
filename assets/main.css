@@ -40,14 +40,14 @@ body.backgrounded > .content > .flex > :not(.foregrounded) {
 	filter: saturate(0);
 	pointer-events: none;
 	
-	transition: 0.5s ease-in-out;
+	transition: 0.25s ease-in-out;
 }
 
 body:not(.backgrounded) > .content > .flex > :not(.foregrounded) {
 	opacity: 100%;
 	filter: none;
 	
-	transition: 0.5s ease-in-out;
+	transition: 0.25s 0.25s ease-in-out;
 }
 
 .content {
