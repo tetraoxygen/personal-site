@@ -8,16 +8,16 @@ export default function Home() {
       <div className="max-w-3xl m-8 space-y-4">
         <div className="space-y-2">
           <div className="flex items-center">
-            <h1 className="text-5xl font-bold font-display grow">
+            <h1 className="dark:text-white text-5xl font-bold font-display grow">
               Charlie Welsh
             </h1>
             <Link href="https://github.com/tetraoxygen">
-              <a className="hover:opacity-80">
+              <a className="hover:opacity-80 transition dark:invert">
                 <Image src="/github.svg" width="32px" height="32px" />
               </a>
             </Link>
           </div>
-          <p className="text-xl">
+          <p className="text-xl dark:text-white">
             Hey, I’m Charlie! I’m a software engineer from the Portland area.
             Here are a few recent projects I’m proud of:
           </p>
@@ -53,7 +53,7 @@ export default function Home() {
             </Link>
           </p>
         </div>
-        <p className="text-center text-black/50">
+        <p className="dark:text-white/50 text-center text-black/50">
           You can find some of my older projects{" "}
           <Link href="https://github.com/tetraoxygen">
             <a className="underline hover:text-blue-500/50 transition">
@@ -61,7 +61,9 @@ export default function Home() {
             </a>
           </Link>
         </p>
-        <p className="text-black/50">&copy; 2022 Charlie Welsh</p>
+        <p className="text-black/50 dark:text-white/50">
+          &copy; 2022 Charlie Welsh
+        </p>
       </div>
     </div>
   );
