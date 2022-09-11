@@ -1,9 +1,7 @@
 @font-face {
   font-family: "Portland Display";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandDisplay-Black.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandDisplay-Black.woff")
-      format("woff");
+  src: url("/fonts/PortlandDisplay-Black.woff2") format("woff2"),
+    url("/fonts/PortlandDisplay-Black.woff") format("woff");
   font-weight: 950;
   font-style: normal;
   font-display: swap;
@@ -11,10 +9,8 @@
 
 @font-face {
   font-family: "Portland Display";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandDisplay-BlackItalic.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandDisplay-BlackItalic.woff")
-      format("woff");
+  src: url("/fonts/PortlandDisplay-BlackItalic.woff2") format("woff2"),
+    url("/fonts/PortlandDisplay-BlackItalic.woff") format("woff");
   font-weight: 950;
   font-style: italic;
   font-display: swap;
@@ -22,10 +18,8 @@
 
 @font-face {
   font-family: "Portland Display";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandDisplay-Bold.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandDisplay-Bold.woff")
-      format("woff");
+  src: url("/fonts/PortlandDisplay-Bold.woff2") format("woff2"),
+    url("/fonts/PortlandDisplay-Bold.woff") format("woff");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -33,10 +27,8 @@
 
 @font-face {
   font-family: "Portland Display";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandDisplay-BoldItalic.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandDisplay-BoldItalic.woff")
-      format("woff");
+  src: url("/fonts/PortlandDisplay-BoldItalic.woff2") format("woff2"),
+    url("/fonts/PortlandDisplay-BoldItalic.woff") format("woff");
   font-weight: 700;
   font-style: italic;
   font-display: swap;
@@ -44,10 +36,8 @@
 
 @font-face {
   font-family: "Portland Display";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandDisplay-ExtraBold.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandDisplay-ExtraBold.woff")
-      format("woff");
+  src: url("/fonts/PortlandDisplay-ExtraBold.woff2") format("woff2"),
+    url("/fonts/PortlandDisplay-ExtraBold.woff") format("woff");
   font-weight: 800;
   font-style: normal;
   font-display: swap;
@@ -55,10 +45,8 @@
 
 @font-face {
   font-family: "Portland Display";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandDisplay-ExtraBoldItalic.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandDisplay-ExtraBoldItalic.woff")
-      format("woff");
+  src: url("/fonts/PortlandDisplay-ExtraBoldItalic.woff2") format("woff2"),
+    url("/fonts/PortlandDisplay-ExtraBoldItalic.woff") format("woff");
   font-weight: 800;
   font-style: italic;
   font-display: swap;
@@ -66,10 +54,8 @@
 
 @font-face {
   font-family: "Portland Display";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandDisplay-Heavy.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandDisplay-Heavy.woff")
-      format("woff");
+  src: url("/fonts/PortlandDisplay-Heavy.woff2") format("woff2"),
+    url("/fonts/PortlandDisplay-Heavy.woff") format("woff");
   font-weight: 900;
   font-style: normal;
   font-display: swap;
@@ -77,10 +63,8 @@
 
 @font-face {
   font-family: "Portland Display";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandDisplay-HeavyItalic.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandDisplay-HeavyItalic.woff")
-      format("woff");
+  src: url("/fonts/PortlandDisplay-HeavyItalic.woff2") format("woff2"),
+    url("/fonts/PortlandDisplay-HeavyItalic.woff") format("woff");
   font-weight: 900;
   font-style: italic;
   font-display: swap;
@@ -88,10 +72,8 @@
 
 @font-face {
   font-family: "Portland Display";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandDisplay-Italic.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandDisplay-Italic.woff")
-      format("woff");
+  src: url("/fonts/PortlandDisplay-Italic.woff2") format("woff2"),
+    url("/fonts/PortlandDisplay-Italic.woff") format("woff");
   font-weight: 400;
   font-style: italic;
   font-display: swap;
@@ -99,10 +81,8 @@
 
 @font-face {
   font-family: "Portland Display";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandDisplay-Light.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandDisplay-Light.woff")
-      format("woff");
+  src: url("/fonts/PortlandDisplay-Light.woff2") format("woff2"),
+    url("/fonts/PortlandDisplay-Light.woff") format("woff");
   font-weight: 300;
   font-style: normal;
   font-display: swap;
@@ -110,10 +90,8 @@
 
 @font-face {
   font-family: "Portland Display";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandDisplay-LightItalic.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandDisplay-LightItalic.woff")
-      format("woff");
+  src: url("/fonts/PortlandDisplay-LightItalic.woff2") format("woff2"),
+    url("/fonts/PortlandDisplay-LightItalic.woff") format("woff");
   font-weight: 300;
   font-style: italic;
   font-display: swap;
@@ -121,10 +99,8 @@
 
 @font-face {
   font-family: "Portland Display";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandDisplay-Medium.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandDisplay-Medium.woff")
-      format("woff");
+  src: url("/fonts/PortlandDisplay-Medium.woff2") format("woff2"),
+    url("/fonts/PortlandDisplay-Medium.woff") format("woff");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -132,10 +108,8 @@
 
 @font-face {
   font-family: "Portland Display";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandDisplay-MediumItalic.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandDisplay-MediumItalic.woff")
-      format("woff");
+  src: url("/fonts/PortlandDisplay-MediumItalic.woff2") format("woff2"),
+    url("/fonts/PortlandDisplay-MediumItalic.woff") format("woff");
   font-weight: 500;
   font-style: italic;
   font-display: swap;
@@ -143,10 +117,8 @@
 
 @font-face {
   font-family: "Portland Display";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandDisplay-Regular.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandDisplay-Regular.woff")
-      format("woff");
+  src: url("/fonts/PortlandDisplay-Regular.woff2") format("woff2"),
+    url("/fonts/PortlandDisplay-Regular.woff") format("woff");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -154,10 +126,8 @@
 
 @font-face {
   font-family: "Portland Display";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandDisplay-Semibold.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandDisplay-Semibold.woff")
-      format("woff");
+  src: url("/fonts/PortlandDisplay-Semibold.woff2") format("woff2"),
+    url("/fonts/PortlandDisplay-Semibold.woff") format("woff");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
@@ -165,10 +135,8 @@
 
 @font-face {
   font-family: "Portland Display";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandDisplay-SemiboldItalic.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandDisplay-SemiboldItalic.woff")
-      format("woff");
+  src: url("/fonts/PortlandDisplay-SemiboldItalic.woff2") format("woff2"),
+    url("/fonts/PortlandDisplay-SemiboldItalic.woff") format("woff");
   font-weight: 600;
   font-style: italic;
   font-display: swap;
@@ -176,10 +144,8 @@
 
 @font-face {
   font-family: "Portland Display";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandDisplay-Thin.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandDisplay-Thin.woff")
-      format("woff");
+  src: url("/fonts/PortlandDisplay-Thin.woff2") format("woff2"),
+    url("/fonts/PortlandDisplay-Thin.woff") format("woff");
   font-weight: 100;
   font-style: normal;
   font-display: swap;
@@ -187,10 +153,8 @@
 
 @font-face {
   font-family: "Portland Display";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandDisplay-ThinItalic.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandDisplay-ThinItalic.woff")
-      format("woff");
+  src: url("/fonts/PortlandDisplay-ThinItalic.woff2") format("woff2"),
+    url("/fonts/PortlandDisplay-ThinItalic.woff") format("woff");
   font-weight: 100;
   font-style: italic;
   font-display: swap;
@@ -198,10 +162,8 @@
 
 @font-face {
   font-family: "Portland Mono";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandMono-Black.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandMono-Black.woff")
-      format("woff");
+  src: url("/fonts/PortlandMono-Black.woff2") format("woff2"),
+    url("/fonts/PortlandMono-Black.woff") format("woff");
   font-weight: 950;
   font-style: normal;
   font-display: swap;
@@ -209,10 +171,8 @@
 
 @font-face {
   font-family: "Portland Mono";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandMono-Bold.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandMono-Bold.woff")
-      format("woff");
+  src: url("/fonts/PortlandMono-Bold.woff2") format("woff2"),
+    url("/fonts/PortlandMono-Bold.woff") format("woff");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -220,10 +180,8 @@
 
 @font-face {
   font-family: "Portland Mono";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandMono-ExtraBold.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandMono-ExtraBold.woff")
-      format("woff");
+  src: url("/fonts/PortlandMono-ExtraBold.woff2") format("woff2"),
+    url("/fonts/PortlandMono-ExtraBold.woff") format("woff");
   font-weight: 800;
   font-style: normal;
   font-display: swap;
@@ -231,10 +189,8 @@
 
 @font-face {
   font-family: "Portland Mono";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandMono-Heavy.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandMono-Heavy.woff")
-      format("woff");
+  src: url("/fonts/PortlandMono-Heavy.woff2") format("woff2"),
+    url("/fonts/PortlandMono-Heavy.woff") format("woff");
   font-weight: 900;
   font-style: normal;
   font-display: swap;
@@ -242,10 +198,8 @@
 
 @font-face {
   font-family: "Portland Mono";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandMono-Light.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandMono-Light.woff")
-      format("woff");
+  src: url("/fonts/PortlandMono-Light.woff2") format("woff2"),
+    url("/fonts/PortlandMono-Light.woff") format("woff");
   font-weight: 300;
   font-style: normal;
   font-display: swap;
@@ -253,10 +207,8 @@
 
 @font-face {
   font-family: "Portland Mono";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandMono-Medium.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandMono-Medium.woff")
-      format("woff");
+  src: url("/fonts/PortlandMono-Medium.woff2") format("woff2"),
+    url("/fonts/PortlandMono-Medium.woff") format("woff");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -264,10 +216,8 @@
 
 @font-face {
   font-family: "Portland Mono";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandMono-Regular.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandMono-Regular.woff")
-      format("woff");
+  src: url("/fonts/PortlandMono-Regular.woff2") format("woff2"),
+    url("/fonts/PortlandMono-Regular.woff") format("woff");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -275,10 +225,8 @@
 
 @font-face {
   font-family: "Portland Mono";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandMono-Semibold.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandMono-Semibold.woff")
-      format("woff");
+  src: url("/fonts/PortlandMono-Semibold.woff2") format("woff2"),
+    url("/fonts/PortlandMono-Semibold.woff") format("woff");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
@@ -286,10 +234,8 @@
 
 @font-face {
   font-family: "Portland Mono";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandMono-Thin.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandMono-Thin.woff")
-      format("woff");
+  src: url("/fonts/PortlandMono-Thin.woff2") format("woff2"),
+    url("/fonts/PortlandMono-Thin.woff") format("woff");
   font-weight: 100;
   font-style: normal;
   font-display: swap;
@@ -297,10 +243,8 @@
 
 @font-face {
   font-family: "Portland Text";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandText-Black.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandText-Black.woff")
-      format("woff");
+  src: url("/fonts/PortlandText-Black.woff2") format("woff2"),
+    url("/fonts/PortlandText-Black.woff") format("woff");
   font-weight: 950;
   font-style: normal;
   font-display: swap;
@@ -308,10 +252,8 @@
 
 @font-face {
   font-family: "Portland Text";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandText-BlackItalic.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandText-BlackItalic.woff")
-      format("woff");
+  src: url("/fonts/PortlandText-BlackItalic.woff2") format("woff2"),
+    url("/fonts/PortlandText-BlackItalic.woff") format("woff");
   font-weight: 950;
   font-style: italic;
   font-display: swap;
@@ -319,10 +261,8 @@
 
 @font-face {
   font-family: "Portland Text";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandText-Bold.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandText-Bold.woff")
-      format("woff");
+  src: url("/fonts/PortlandText-Bold.woff2") format("woff2"),
+    url("/fonts/PortlandText-Bold.woff") format("woff");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -330,10 +270,8 @@
 
 @font-face {
   font-family: "Portland Text";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandText-BoldItalic.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandText-BoldItalic.woff")
-      format("woff");
+  src: url("/fonts/PortlandText-BoldItalic.woff2") format("woff2"),
+    url("/fonts/PortlandText-BoldItalic.woff") format("woff");
   font-weight: 700;
   font-style: italic;
   font-display: swap;
@@ -341,10 +279,8 @@
 
 @font-face {
   font-family: "Portland Text";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandText-ExtraBold.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandText-ExtraBold.woff")
-      format("woff");
+  src: url("/fonts/PortlandText-ExtraBold.woff2") format("woff2"),
+    url("/fonts/PortlandText-ExtraBold.woff") format("woff");
   font-weight: 800;
   font-style: normal;
   font-display: swap;
@@ -352,10 +288,8 @@
 
 @font-face {
   font-family: "Portland Text";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandText-ExtraBoldItalic.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandText-ExtraBoldItalic.woff")
-      format("woff");
+  src: url("/fonts/PortlandText-ExtraBoldItalic.woff2") format("woff2"),
+    url("/fonts/PortlandText-ExtraBoldItalic.woff") format("woff");
   font-weight: 800;
   font-style: italic;
   font-display: swap;
@@ -363,10 +297,8 @@
 
 @font-face {
   font-family: "Portland Text";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandText-Heavy.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandText-Heavy.woff")
-      format("woff");
+  src: url("/fonts/PortlandText-Heavy.woff2") format("woff2"),
+    url("/fonts/PortlandText-Heavy.woff") format("woff");
   font-weight: 900;
   font-style: normal;
   font-display: swap;
@@ -374,10 +306,8 @@
 
 @font-face {
   font-family: "Portland Text";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandText-HeavyItalic.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandText-HeavyItalic.woff")
-      format("woff");
+  src: url("/fonts/PortlandText-HeavyItalic.woff2") format("woff2"),
+    url("/fonts/PortlandText-HeavyItalic.woff") format("woff");
   font-weight: 900;
   font-style: italic;
   font-display: swap;
@@ -385,10 +315,8 @@
 
 @font-face {
   font-family: "Portland Text";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandText-Light.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandText-Light.woff")
-      format("woff");
+  src: url("/fonts/PortlandText-Light.woff2") format("woff2"),
+    url("/fonts/PortlandText-Light.woff") format("woff");
   font-weight: 300;
   font-style: normal;
   font-display: swap;
@@ -396,10 +324,8 @@
 
 @font-face {
   font-family: "Portland Text";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandText-LightItalic.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandText-LightItalic.woff")
-      format("woff");
+  src: url("/fonts/PortlandText-LightItalic.woff2") format("woff2"),
+    url("/fonts/PortlandText-LightItalic.woff") format("woff");
   font-weight: 300;
   font-style: italic;
   font-display: swap;
@@ -407,10 +333,8 @@
 
 @font-face {
   font-family: "Portland Text";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandText-Medium.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandText-Medium.woff")
-      format("woff");
+  src: url("/fonts/PortlandText-Medium.woff2") format("woff2"),
+    url("/fonts/PortlandText-Medium.woff") format("woff");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -418,10 +342,8 @@
 
 @font-face {
   font-family: "Portland Text";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandText-MediumItalic.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandText-MediumItalic.woff")
-      format("woff");
+  src: url("/fonts/PortlandText-MediumItalic.woff2") format("woff2"),
+    url("/fonts/PortlandText-MediumItalic.woff") format("woff");
   font-weight: 500;
   font-style: italic;
   font-display: swap;
@@ -429,10 +351,8 @@
 
 @font-face {
   font-family: "Portland Text";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandText-Regular.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandText-Regular.woff")
-      format("woff");
+  src: url("/fonts/PortlandText-Regular.woff2") format("woff2"),
+    url("/fonts/PortlandText-Regular.woff") format("woff");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -440,10 +360,8 @@
 
 @font-face {
   font-family: "Portland Text";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandText-RegularItalic.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandText-RegularItalic.woff")
-      format("woff");
+  src: url("/fonts/PortlandText-RegularItalic.woff2") format("woff2"),
+    url("/fonts/PortlandText-RegularItalic.woff") format("woff");
   font-weight: 400;
   font-style: italic;
   font-display: swap;
@@ -451,10 +369,8 @@
 
 @font-face {
   font-family: "Portland Text";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandText-Semibold.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandText-Semibold.woff")
-      format("woff");
+  src: url("/fonts/PortlandText-Semibold.woff2") format("woff2"),
+    url("/fonts/PortlandText-Semibold.woff") format("woff");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
@@ -462,10 +378,8 @@
 
 @font-face {
   font-family: "Portland Text";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandText-SemiboldItalic.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandText-SemiboldItalic.woff")
-      format("woff");
+  src: url("/fonts/PortlandText-SemiboldItalic.woff2") format("woff2"),
+    url("/fonts/PortlandText-SemiboldItalic.woff") format("woff");
   font-weight: 600;
   font-style: italic;
   font-display: swap;
@@ -473,10 +387,8 @@
 
 @font-face {
   font-family: "Portland Text";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandText-Thin.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandText-Thin.woff")
-      format("woff");
+  src: url("/fonts/PortlandText-Thin.woff2") format("woff2"),
+    url("/fonts/PortlandText-Thin.woff") format("woff");
   font-weight: 100;
   font-style: normal;
   font-display: swap;
@@ -484,10 +396,8 @@
 
 @font-face {
   font-family: "Portland Text";
-  src: url("https://dupmxme7vh3m.cloudfront.net/PortlandText-ThinItalic.woff2")
-      format("woff2"),
-    url("https://dupmxme7vh3m.cloudfront.net/PortlandText-ThinItalic.woff")
-      format("woff");
+  src: url("/fonts/PortlandText-ThinItalic.woff2") format("woff2"),
+    url("/fonts/PortlandText-ThinItalic.woff") format("woff");
   font-weight: 100;
   font-style: italic;
   font-display: swap;
