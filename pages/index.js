@@ -5,6 +5,9 @@ import Link from "next/link";
 export default function Home() {
   return (
     <div className="flex justify-center content-center h-full">
+      <Head>
+        <title>Charlie Welsh</title>
+      </Head>
       <div className="max-w-3xl m-8 space-y-4">
         <div className="space-y-2">
           <div className="flex items-center">
