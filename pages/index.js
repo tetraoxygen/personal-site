@@ -21,8 +21,8 @@ export default function Home() {
             </Link>
           </div>
           <p className="text-xl dark:text-white">
-            Hey, I’m Charlie! I’m a software engineer from the Portland area.
-            Here are a few recent projects I’m proud of:
+            Hey, I’m Charlie! I’m a software engineer and hobbyist type designer
+            from the Portland area. Here are a few recent projects I’m proud of:
           </p>
         </div>
         <div className="rounded-xl shadow-lg hover:scale-105 transition p-6 bg-stone-300 bg-[url('/assemble-bg.png')] bg-cover bg-blend-brighten">
