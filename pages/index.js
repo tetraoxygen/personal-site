@@ -30,7 +30,7 @@ export default function Home() {
             </a>
           </Link>
 
-          <Link href="https://github.com/tetraoxygen">
+          <Link href="https://hachyderm.io/@tetraoxygen">
             <a className="transition dark:invert flex space-x-2 opacity-50 hover:opacity-40 ">
               <Image src="/mastodon.svg" width="16px" height="16px" alt="GitHub Logo"/>
               <p className="text-sm font-monospace font-semibold">
