@@ -8,6 +8,7 @@ module.exports = {
     fontFamily: {
       sans: ["Portland Text", "sans-serif"],
       display: ["Portland Display", "sans-serif"],
+      monospace: ["Portland Mono", "mono"],
     },
     extend: {},
   },
